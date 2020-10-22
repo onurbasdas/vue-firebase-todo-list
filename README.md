@@ -1,5 +1,6 @@
 # http-request
-Firebase connection is established. The data in my Todo.list project is in firebase. The data were posted with Postman.
+A connection has been established between Firebase and vue.js. The data in my Todo.list project is in firebase. The data were posted with Postman.
+
 
 ## Project setup
 ```
