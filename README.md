@@ -1,4 +1,5 @@
 # http-request
+Firebase connection is established. The data in my Todo.list project is in firebase. The data were posted with Postman.
 
 ## Project setup
 ```
